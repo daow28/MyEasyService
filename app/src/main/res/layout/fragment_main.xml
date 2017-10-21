@@ -25,7 +25,7 @@
 
     <!--pink View-->
     <!--นี่คือการทำ View ที่เป็นสีชมพูนะจ๊ะ-->
-    <view
+    <View
         android:layout_width="match_parent"
         android:layout_height="@dimen/icon"
         android:layout_margin="@dimen/margin"
@@ -33,7 +33,7 @@
 
 
     <!--blue View-->
-    <view
+    <View
         android:layout_width="@dimen/icon"
         android:layout_height="@dimen/icon"
         android:layout_marginLeft="@dimen/margin"
