@@ -17,9 +17,19 @@
         android:layout_height="wrap_content" />
 
     <!--Image-->
-
+    <ImageView
+        android:src="@drawable/human"
+        android:layout_width="@dimen/icon2"
+        android:layout_height="@dimen/icon2" />
 
     <!--Back Button-->
+    <Button
+        android:layout_marginTop="@dimen/margin"
+        android:textColor="#ffffff"
+        android:background="@color/colorPrimary"
+        android:text="Back"
+        android:layout_width="@dimen/icon2"
+        android:layout_height="wrap_content" />
 
 
 </LinearLayout>
