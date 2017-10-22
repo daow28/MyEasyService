@@ -24,6 +24,7 @@
 
     <!--Back Button-->
     <Button
+        android:id="@+id/btnBack"
         android:layout_marginTop="@dimen/margin"
         android:textColor="#ffffff"
         android:background="@color/colorPrimary"
