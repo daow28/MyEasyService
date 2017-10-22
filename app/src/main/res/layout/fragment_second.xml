@@ -18,6 +18,7 @@
 
     <!--Image-->
     <ImageView
+        android:id="@+id/imvHuman"
         android:src="@drawable/human"
         android:layout_width="@dimen/icon2"
         android:layout_height="@dimen/icon2" />

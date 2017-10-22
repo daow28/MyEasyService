@@ -8,6 +8,12 @@
     android:layout_height="match_parent"
     tools:context="app.tsc.rotchanan.myeasyservice.MainActivity">
 
+    <ImageView
+        android:scaleType="centerCrop"
+        android:src="@drawable/bg"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
     <!--Content-->
     <LinearLayout
         android:orientation="vertical"
